@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Social Media Content Orchestrator
 
 An end-to-end AI agent system that creates, schedules, and optimizes social media content automatically — from ideation to publishing.
