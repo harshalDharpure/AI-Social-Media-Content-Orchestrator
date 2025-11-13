@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Social Media Content Orchestrator
 
 An end-to-end AI agent system that creates, schedules, and optimizes social media content automatically — from ideation to publishing.
@@ -83,3 +84,7 @@ Once the backend is running, visit `http://localhost:8000/docs` for interactive 
 
 MIT
 
+=======
+# AI-Social-Media-Content-Orchestrator
+AI Social Media Content Orchestrator
+>>>>>>> origin/main
